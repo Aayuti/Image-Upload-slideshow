@@ -1,6 +1,12 @@
 # systemic_altruism
 
 A new Flutter project.
+This is an app feature for my internship assignment, which involves the creation of a backend server using Express.js. This server is responsible for storing all uploaded files securely. Currently, the implemented feature displays user-uploaded images in a slideshow format.
+
+Moving forward, I am in the process of integrating the feature with a sophisticated face detection algorithm. This integration will enhance the functionality by automatically displaying images similar to the one uploaded by the user on the app. This innovative approach utilizes advanced technical algorithms to provide a seamless and intuitive user experience.
+
+Screenshots of the app
+
 
 ## Getting Started
 
