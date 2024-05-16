@@ -7,6 +7,7 @@ Moving forward, I am in the process of integrating the feature with a sophistica
 
 Screenshots of the app
 
+![WhatsApp Image 2024-05-16 at 13 50 42_c77472a1](https://github.com/Aayuti/Image-Upload-slideshow/assets/130854430/d6c0af5a-3cd5-4ea3-ad8f-8652a22f2764)
 
 ## Getting Started
 
